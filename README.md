@@ -41,4 +41,4 @@ HINT: The pattern needed is '\d{4}' and depending on how your datagrip was set u
 	* Create a `save` method in the class that will either create a new object or update the existing object.
 
 ## External Links
-* [Github Repo](https://github.com/tiy-lv-java-2016-06/movie-sql-part-2)
+* [Github Repo](https://github.com/tiy-lv-java-2016-11/movies-sql-part-2)
